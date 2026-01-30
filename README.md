@@ -2,7 +2,7 @@
 
 **Virtual build tools for developers.** A modern landing page for a VR (virtual reality) development platform, built with React, Vite, and Tailwind CSS.
 
-![Vertex](src/assets/logo.png)
+![Vertex](src/assets/vertex.png)
 
 ## Features
 
