@@ -1,16 +1,35 @@
-# React + Vite
+# Vertex
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Virtual build tools for developers.** A modern landing page for a VR (virtual reality) development platform, built with React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+![Vertex](src/assets/logo.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## React Compiler
+- **Hero** — Headline, CTA buttons, and VR demo video
+- **Features** — Drag-and-drop interface, multi-platform support, templates, real-time preview, collaboration tools, analytics dashboard
+- **Workflow** — Steps for code merge, review, AI assistance, and sharing
+- **Pricing** — Free, Pro, and Enterprise tiers
+- **Testimonials** — Customer quotes with avatars
+- **Footer** — Resources, platform, and community links
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+- [React](https://react.dev/) 19
+- [Vite](https://vite.dev/) 7
+- [Tailwind CSS](https://tailwindcss.com/) 4
+- [Lucide React](https://lucide.dev/) (icons)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Getting Started
+
+### Prerequisites
+
+- Node.js 18+
+
+### Install & Run
+
+# Install dependencies
+npm install
+
+# Start dev server
+npm run dev
